@@ -21,8 +21,9 @@
 <!-- Family History -->
 <h2 id="family">Brief Family History</h2>
 <p>
-    <!-- Replace this text with your own -->
-    Write a short paragraph about your family background here.
+    My family is Hmong. My elders are from Thailand and Laos. Most of my family are Hmong-American
+    though. We eat alot of American food mostly when we eat something fast but when we cook homemade
+    food, we create Hmong food such as Khao Piak and Pho.
 </p>
 
 <hr>
@@ -31,9 +32,9 @@
 <h2 id="education">Brief Educational History</h2>
 <p>Here is a list of schools I have attended:</p>
 <ul>
-    <li>School 1</li>
-    <li>School 2</li>
-    <li>School 3</li>
+    <li>Zachary Lane Elementary</li>
+    <li>Anoka High School</li>
+    <li>Anoka Ramsey Community College</li>
 </ul>
 
 <hr>
@@ -41,16 +42,14 @@
 <!-- Current Academic Situation -->
 <h2 id="current">Current Academic Situation</h2>
 <p>
-    I am currently attending 
-    <a href="https://www.stthomas.edu" target="_blank">University of St. Thomas</a>.
+    I am currently attending Anoka Ramsey Community College
 </p>
-<p>My major is: <strong>Your Major Here</strong></p>
 
 <p>Courses I am taking:</p>
 <ul>
-    <li>Course 1</li>
-    <li>Course 2</li>
-    <li>Course 3</li>
+    <li>Intro to Computer Science</li>
+    <li>Intro to IT</li>
+    <li>Economics</li>
 </ul>
 
 <hr>
@@ -58,7 +57,7 @@
 <!-- Non-Academic Interests -->
 <h2 id="interests">Non-Academic Interests</h2>
 <p>
-    Write about your hobbies, favorite music, sports, creative interests, etc.
+    I love playing guitar, video games and working on computers.
 </p>
 
 <hr>
