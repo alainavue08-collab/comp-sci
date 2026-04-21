@@ -1,0 +1,67 @@
+< ! DOCTYPE html >
+<html>
+<head>
+    <title>Lab13 Exercise 2 - Vue</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<!-- Table of Contents -->
+<h2>Table of Contents</h2>
+<ul>
+    <li><a href="#family">Family History</a></li>
+    <li><a href="#education">Educational History</a></li>
+    <li><a href="#current">Current Academic Situation</a></li>
+    <li><a href="#interests">Non-Academic Interests</a></li>
+</ul>
+
+<hr>
+
+<!-- Family History -->
+<h2 id="family">Brief Family History</h2>
+<p>
+    <!-- Replace this text with your own -->
+    Write a short paragraph about your family background here.
+</p>
+
+<hr>
+
+<!-- Educational History -->
+<h2 id="education">Brief Educational History</h2>
+<p>Here is a list of schools I have attended:</p>
+<ul>
+    <li>School 1</li>
+    <li>School 2</li>
+    <li>School 3</li>
+</ul>
+
+<hr>
+
+<!-- Current Academic Situation -->
+<h2 id="current">Current Academic Situation</h2>
+<p>
+    I am currently attending 
+    <a href="https://www.stthomas.edu" target="_blank">University of St. Thomas</a>.
+</p>
+<p>My major is: <strong>Your Major Here</strong></p>
+
+<p>Courses I am taking:</p>
+<ul>
+    <li>Course 1</li>
+    <li>Course 2</li>
+    <li>Course 3</li>
+</ul>
+
+<hr>
+
+<!-- Non-Academic Interests -->
+<h2 id="interests">Non-Academic Interests</h2>
+<p>
+    Write about your hobbies, favorite music, sports, creative interests, etc.
+</p>
+
+<hr>
+
+</body>
+</html>
